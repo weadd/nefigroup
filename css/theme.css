@@ -1728,6 +1728,7 @@ html[dir="rtl"] #header .header-search .btn-default {
 
 .page-header.custom-product p.lead {
 	color: #E8E8E8;
+    
 }
 
 .page-header.custom-product img {
@@ -1900,12 +1901,20 @@ html.dark .text-muted {
 	margin-bottom: 15px !important;
 }
 
-.mb-lg {
-	margin-bottom: 20px !important;
+.mb-lg h2{
+    margin-bottom: -20px;
 }
 
-.mb-xl {
-	margin-bottom: 25px !important;
+.mb-xl h2{
+    margin-bottom: -20px;
+}
+.mb-xl p{
+    line-height: 20px;
+    font-weight: 100;
+    text-align: justify;
+}
+.mb-xl strong{
+    color: #1A032E;
 }
 
 .mb-xlg {
