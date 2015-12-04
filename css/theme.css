@@ -2745,7 +2745,7 @@ section.section-custom-map-2 section.section {
 /* #Footer */
 #footer {
 	background: #181817;
-	border-top: 4px solid #0e0e0e;
+	
 	font-size: 0.9em;
 	margin-top: 50px;
 	padding: 70px 0 0;
@@ -2931,7 +2931,7 @@ section.section-custom-map-2 section.section {
 
 #footer .footer-copyright {
 	background: #181819;
-	border-top: 4px solid #060606;
+	
 	margin-top: 40px;
 	padding: 30px 0 10px;
 }
@@ -3107,7 +3107,7 @@ html.dark.boxed .body {
 
 html.dark #header .header-top {
 	background: #282d36;
-	border-bottom-color: #2e353e;
+	
 }
 
 html.dark #header .header-search .form-control {
@@ -3116,7 +3116,7 @@ html.dark #header .header-search .form-control {
 
 html.dark #header .header-body {
 	background: #1d2127;
-	border-top-color: #2e353e;
+;
 }
 
 html.dark #header .header-nav-bar {
