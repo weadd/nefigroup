@@ -1121,6 +1121,7 @@ label.error#captcha-error {
 
 .img-thumbnail img {
 	border-radius: 4px;
+    padding-top: 65px;
 }
 
 .img-thumbnail .zoom {
