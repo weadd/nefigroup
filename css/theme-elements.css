@@ -321,6 +321,10 @@ p {
 	
 }
 
+p.intro-paragraph{
+    text-transform: uppercase;
+}
+
 p.featured {
 	font-size: 1.6em;
 	line-height: 1.5em;
@@ -461,7 +465,7 @@ ul.nav-pills > li.active > a:hover, ul.nav-pills > li.active > a:focus {
 
 /* Nav Secondary */
 .nav-secondary {
-	background: #fafafa;
+	background: #fedb0a;
 	margin: 0;
 	padding: 20px 0;
 	text-align: center;
