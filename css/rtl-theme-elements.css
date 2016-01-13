@@ -364,7 +364,7 @@ p.drop-caps:first-child:first-letter {
 }
 
 p.drop-caps.drop-caps-style-2:first-child:first-letter {
-	background-color: #CCC;
+	
 	color: #FFF;
 	padding: 6px;
 	margin-left: 5px;
@@ -456,11 +456,11 @@ ul.narrow li a {
 }
 
 ul.nav-pills > li.active > a {
-	background-color: #CCC;
+	
 }
 
 ul.nav-pills > li.active > a:hover, ul.nav-pills > li.active > a:focus {
-	background-color: #CCC;
+
 }
 
 /* Nav Secondary */
